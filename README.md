@@ -1,6 +1,10 @@
 # 🍽️ Comanda Online - DivideAí
 
-Uma aplicação móvel para gerenciar comandas online, permitindo a divisão automática de contas entre participantes de forma prática e eficiente.
+Uma aplicação móvel para gerenciar comandas online, permitindo a divisão automática de contas entre participantes de forma prática e eficiente.  
+Por:
+- Luiz Faccio
+- [João Henrique Alves dos Santos](https://github.com/joaohenalves)
+- [Marco Balestrin](https://github.com/marcobalestrin)
 
 ## Sobre o Aplicativo
 
@@ -126,7 +130,4 @@ npm start
 ---
 
 **Desenvolvido para a disciplina Planejameto e Gestão de Projetos**   
-Por:
-- Luiz Faccio
-- [João Henrique Alves dos Santos](https://github.com/joaohenalves)
-- [Marco Balestrin](https://github.com/marcobalestrin)
+
